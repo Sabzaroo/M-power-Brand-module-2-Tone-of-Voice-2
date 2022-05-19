@@ -1,9 +1,9 @@
 const config = {
     title: "How to use your KIT:",
-    question: "2. Make it impactful",
+    question: "1. Make it knowledgeable",
     image_on: false,
     image: "https://a.storyblok.com/f/112136/373x445/175f800354/lucia-8.png",
-    selection_title: "Click on each bullet below to learn more about each point.",
+    selection_title: "Click on each bullet below to find out more about each one.",
     selection_options: [
         "Put your main point first",
         "Back up your point with facts",
