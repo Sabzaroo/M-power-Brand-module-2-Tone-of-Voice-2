@@ -11,7 +11,6 @@ const config = {
         "Use straightforward language",
         "Use the active voice, not the passive",
         "Avoid abstract language and jargon",
-
     ],
     answer_options: [
         "If they read nothing else, they'll almost certainly read the first part. So make sure your most important info (who, what, why and how) is placed first.",
