@@ -28,8 +28,12 @@ const config = {
         "",
         "",
         "",
+        "",
+        "",
     ],
     small_answer_image: [
+        "",
+        "",
         "",
         "",
         "",
