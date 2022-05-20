@@ -18,7 +18,7 @@ const config = {
         "Use subheadings that summarise your content to make it scannable but still understandable.",
         "Write the way you speak – if you wouldn't say it, don't write it.",
         "Put the subject of the sentence first.",
-        "Simplify your sentences and consider your audience's level of understanding."
+        "Simplify your sentences and consider your audience's level of understanding.",
     ],
     answer_background_colour: "rgba(37, 81, 123, 0.5)",
     answer_font_colour: "white",
